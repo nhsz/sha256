@@ -15,7 +15,7 @@ app.get('/', function (req, res) {
     .update(seed, 'utf8')
     .digest('hex')
 
-  res.json(hash)
+  res.send(JSON.stringify({ sha256 : hash }))
 })
 
 app.listen(3000, function () {
