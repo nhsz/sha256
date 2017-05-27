@@ -1,6 +1,6 @@
-# sha256
+# :two::five::six: sha256
 
-NodeJS API that generates a random SHA256 hash code
+API that generates a random SHA256 hash code, built with NodeJS/ExpressJS
 
 ## Usage
 
