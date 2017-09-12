@@ -1,6 +1,6 @@
 # :two::five::six: sha256
 
-API that generates a random SHA256 hash code, built with NodeJS/ExpressJS
+Microservice that generates a random SHA256 hash code, built with NodeJS/ExpressJS
 
 ## Usage
 
